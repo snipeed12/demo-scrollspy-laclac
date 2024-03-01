@@ -1,0 +1,25 @@
+{
+  "name": "demo-scrollspy-laclac",
+  "version": "1.0.0",
+  "description": "demo scrollspy lac lac",
+  "main": "1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snipeed12/demo-scrollspy-laclac.git"
+  },
+  "keywords": [
+    "scrollspy"
+  ],
+  "author": "snipeed12",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snipeed12/demo-scrollspy-laclac/issues"
+  },
+  "homepage": "https://github.com/snipeed12/demo-scrollspy-laclac#readme",
+  "dependencies": {
+    "scroll-app-laclac": "^1.0.0"
+  }
+}
